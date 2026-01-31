@@ -1,4 +1,7 @@
-// Program to find the sum of two numbers
+/*Purpose: Program to find the sum of two numbers entered by user.
+  Author: Twinkle Gupta 
+  Date: 29/01/2026 */
+
 #include <stdio.h>
 int main()
 {
